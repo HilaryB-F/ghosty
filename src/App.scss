@@ -1,0 +1,73 @@
+@use "./styles/resets" as *;
+
+body {
+  background-color: black;
+}
+.game {
+  &__container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  &__box {
+    background-image: url("./assets/Background.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    overflow: hidden;
+  }
+}
+
+.ghost {
+  position: absolute;
+  height: 5rem;
+  margin-left: -22rem;
+  margin-bottom: 2rem;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.branch {
+  &__top {
+    margin-left: -8rem;
+    min-height: 5rem;
+  }
+  &__bottom {
+    margin-left: -8rem;
+    min-height: 5rem;
+  }
+}
+.imgbranch {
+  background-image: url(./assets/top-branch.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.bottom {
+  background-image: url(./assets/tomb.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-left: -3rem;
+}
+
+.button {
+  padding: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  border-radius: 50px;
+  outline: none;
+  border: 1px solid black;
+  color: white;
+  background-color: blueviolet;
+  margin: 1rem;
+  margin-left: 50rem;
+}
+.score {
+  font-size: 1.4rem;
+  background-color: blueviolet;
+  color: white;
+  padding: 1rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  border-radius: 50px;
+}
