@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+#Ghosty 👻
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+_Flappy Bird, but spooky_
 
-## Available Scripts
+I am highly intereseted in creating games, but during my schooling we didn't touch on the subject, so to start my journey in the gaming world I decided to make a rip off of Flappy Bird. I followed a tutorial on how to make it but I came up against some challenges that my tutorial didn't address. 
 
-In the project directory, you can run:
+The tutorial didn't have any styling, as the creator wanted it to be super simple, but I love my styling and I always go above and beyond. Importing images that kept to their correct proportions, but also grew and shrank was the hardest thing to overcome. But in the end I got it to work! 
 
-### `npm start`
+This is still a work in progress as I would like this to become my first react native project, so stay tuned for that! 👻 🎉
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screen Shot 2023-03-03 at 12 01 22 PM (3)](https://user-images.githubusercontent.com/118302785/222815458-95a0335a-f4c4-47a3-8139-85a8e45175ff.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Installation 
+Install Ghosty in few easy steps 
 
-### `npm test`
+1. Clone or download this repo 💫
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Install the dependencies in your front-end 💫
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   Run `npm install` or `npm i` in your terminal
+   ```
+      $ cd {your directory name here}
+      $ npm install
+      ```
+      
+3. Start your app 🎉
+     ```
+      $ npm start
+    ```
+ #### Have fun!!!👻 👻 👻 
